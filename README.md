@@ -1,0 +1,2 @@
+# charactercounting
+character counting method
